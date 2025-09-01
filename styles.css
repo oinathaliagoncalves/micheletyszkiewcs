@@ -1,0 +1,10 @@
+body {
+    background-color: rgba(25, 18, 18, 1);
+    margin: 0;
+}
+
+.iconeNav {
+    max-width: 100px;
+    width: 40vw;
+    padding-left: 5rem;
+}
